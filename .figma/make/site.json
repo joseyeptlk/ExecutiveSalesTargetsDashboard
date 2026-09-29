@@ -1,0 +1,10 @@
+{
+  "description": "Tracks and visualizes 2026 sales targets and performance for entertainment executives with clear KPIs, trend charts, and exportable reports.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
